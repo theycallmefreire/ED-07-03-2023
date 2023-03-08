@@ -3,6 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import streamlit as st
 
+st.text("salve Claudio")
 # função para selecionar a quantidade de linhas do dataframe
 def mostra_qntd_linhas(dataframe):
     
