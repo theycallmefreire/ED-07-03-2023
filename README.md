@@ -6,7 +6,7 @@ Repositório com os arquivos do projeto desenvolvido em sala de aula para o arti
 
 ### 1. Faça o clone na sua maquina
 ```bash
-git clone https://github.com/theycallmefreire/ED-07-03-2023.git
+git clone https://github.com/theycallmefreire/Analise-de-estoque.git
 ```
 ### 2. Instale as dependências 
 
